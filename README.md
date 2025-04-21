@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Ehsanul Sajal 👋
 
-<!--
-**eksajal/eksajal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Web Developer who loves turning ideas into real applications using **Laravel**, **Vue.js**, and **Bootstrap**.
 
-Here are some ideas to get you started:
+- 🔧 Building full-stack apps with Laravel + Vue
+- 🌍 Founder @ CodeVibe Innovations
+- 📫 Email: sajalofficial01@gmail.com
+- 🧑‍💻 Portfolio: [sajalportfolio1.netlify.app](https://sajalportfolio1.netlify.app/)
+- 🚀 Agency Site: [codevibebd.netlify.app](https://codevibebd.netlify.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+**Backend:** Laravel, PHP, REST API  
+**Frontend:** Vue.js 3, Bootstrap, JavaScript  
+**Tools:** Git, GitHub, Netlify, Render, Railway
+
+## 📌 Projects
+- 🏨 [Hotel Management System](https://github.com/eksajal/HotelManagementSystem)
+- 🏥 [Hospital Management](https://github.com/eksajal/HospitalManagement)
+- 🍽 [Restaurant System](https://github.com/eksajal/RestaurantManagementSystem)
+- 📚 [Library Management](https://github.com/eksajal/LibraryManagement)
+- 🛍 [Dropshipping Ecommerce](https://github.com/eksajal/Ecommerce-Dropshipping)
+- 🏫 [University System](https://github.com/eksajal/UniversityManagementSystem)
+
+Thanks for visiting! ⭐ Feel free to connect or collaborate.
+
