@@ -5,8 +5,8 @@ I'm a Full Stack Web Developer who loves turning ideas into real applications us
 - 🔧 Building full-stack apps with Laravel + Vue
 - 🌍 Founder @ CodeVibe Innovations
 - 📫 Email: sajalofficial01@gmail.com
-- 🧑‍💻 Portfolio: [sajalportfolio1.netlify.app](https://sajalportfolio1.netlify.app/)
-- 🚀 Agency Site: [codevibebd.netlify.app](https://codevibebd.netlify.app/)
+- 🧑‍💻 Portfolio: [sajalportfolio1.netlify.app](https://sajalweb.codevibebd.com/)
+- 🚀 Agency Site: [codevibebd.netlify.app](https://codevibebd.com/)
 
 ## 🛠 Tech Stack
 **Backend:** Laravel, PHP, REST API  
